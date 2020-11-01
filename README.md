@@ -1,4 +1,4 @@
-[![I am Android and iOS Developer](https://github.com/muftiramdhani25/muftiramdhani25/blob/main/img/bg.png)](mufti-ramdhani.web.app)
+![I am Android and iOS Developer][(https://github.com/muftiramdhani25/muftiramdhani25/blob/main/img/bg.png)](mufti-ramdhani.web.app)
 
 ### Hi there 👋, my name is Mufti
 #### I am Android and iOS Developer
