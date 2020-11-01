@@ -21,14 +21,3 @@ Skills: KOTLIN / SWIFT / JS / HTML / CSS / PHP / SQL
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/muftiramdhani25)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/https://dev.to/boymufti)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/muftiramdhani//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/muftiramdhani/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/mufti_ramdhani//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/muftiramdhani25)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/story/mufti)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCX-j3pRXjMEjuuGjFl8ZsCA?view_as=subscriber)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://mufti-ramdhani.web.app/)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/muftiramdhani25)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/muftiramdhani25)](https://github.com/muftiramdhani25/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/muftiramdhani25&show_icons=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/muftiramdhani25)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/muftiramdhani25)  
-
-![Profile views](https://gpvc.arturio.dev/https://github.com/muftiramdhani25)  
