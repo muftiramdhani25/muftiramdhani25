@@ -9,7 +9,9 @@ I write about things I am familiar with, things that trip up folks that I mentor
 
 Skills: KOTLIN / SWIFT / JS / HTML / CSS / PHP / SQL
 
-[![muhammad mufti ramdhani's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/mufti25)
+<a href="https://dev.to/mufti25">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="muhammad mufti ramdhani's DEV Profile" height="30" width="30">
+</a>
 
 - 🔭 I’m currently working on [Growdev](growdev.net). 
 - 🌱 I’m currently learning in [IDN](https://idn.sch.id/). 
