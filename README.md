@@ -1,7 +1,7 @@
+![I am Android and iOS Developer](https://github.com/muftiramdhani25/muftiramdhani25/blob/main/img/bg.png)
 
 ### Hi there 👋, my name is Mufti
 #### I am Android and iOS Developer
-![I am Android and iOS Developer](https://github.com/muftiramdhani25/muftiramdhani25/blob/main/img/bg.png)
 
 I write regular blog posts, most of which you will find on my medium website [medium.com](https://medium.com/@muftiramdhani25) and [hashnode](https://mufti.hashnode.dev/).
 
